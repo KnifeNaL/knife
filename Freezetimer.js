@@ -1,5 +1,5 @@
-/*javascript:$.getScript("");void(0);
-/*
+
+/*   javascript:$.getScript("");void(0);
  * 	Author: Crimsoni
  * 	Script: FreezeTimers
  * 	Description: Run to freeze attack timers only, without freezing resources or the server clock.
