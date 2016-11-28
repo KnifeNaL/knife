@@ -1,4 +1,4 @@
-@ProgramVersion/2@
+@ProgramVersion/4@
 
 @Server/is/Online@
 
@@ -6,7 +6,7 @@
 
 @Update/http://blog.daum.net/ak47tnt/31@
 
-@Freepass/okn@
+@Freepass/on@
 
 admin = FBA12691EADC524C 
 
